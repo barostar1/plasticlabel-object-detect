@@ -1,1 +1,1 @@
-# platiclabel-object-detect
+# plasticlabel-object-detect
